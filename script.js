@@ -16,7 +16,7 @@ const questions = [
   },
   {
     question: "Question 4 : How many bones are in the adult human body?",
-    answers: ["206", "2060", "102", "50"],
+    answers: ["206", "208", "207", "205"],
     correct: 0,
   },
   {
@@ -26,7 +26,7 @@ const questions = [
   },
   {
     question: "Quesion 6 : What is the speed of light?",
-    answers: ["300,000 km/s", "150,000 km/s", "500,000 km/s", "100,000 km/s"],
+    answers: ["300,000 km/s", "250,000 km/s", "310,000 km/s", "320,000 km/s"],
     correct: 0,
   },
   {
